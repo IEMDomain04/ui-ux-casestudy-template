@@ -1,0 +1,22 @@
+/* @font-face {
+    font-family: "Netron";
+    src: url(Netron.ttf);
+  } */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #151A20;
+    color: white;
+}
+
+body,
+html {
+    overflow-x: hidden;
+}
+
+/* Assets */

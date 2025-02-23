@@ -1,0 +1,2 @@
+# Case Study Template
+This responsive template is designed for UI/UX designers and researchers to showcase their UX case studies in a structured and visually appealing format . Use this template to present your design process, research insights, and project outcomes effectively.
